@@ -12,7 +12,7 @@
 6. Repeat step 2.
 7. Repeat step 3.
 
-### CHATGPT CONECPT
+### CHATGPT CONCEPT
 
 ```
 import os
@@ -49,7 +49,8 @@ if __name__ == "__main__":
     create_new_folder(base_directory)
     print("Created the second folder.")
 ```
-
+Make sure to change the base_directory variable to the directory where you want to create the folders. This script will automatically name new folders with incremental numbers (e.g., 1, 2, 3, etc.) in the specified directory.
+#
 ### REFERENCES
 
 [Regulated_File_Manager](https://github.com/sourceduty/Regulated_File_Manager)

@@ -1,8 +1,6 @@
-### Sequenced_File_Folders
+![Folders](https://github.com/user-attachments/assets/b9eba1f8-c09d-4d9c-8df2-22d1616dfc93)
 
-📁 Automatically creates a new folder after a new folder is named.
-
-### SEQUENTIAL PROCESS CONCEPT
+> Automatically creates a new folder after a new folder is named.
 
 1. A new folder is created without a name.
 2. The new folder is automatically named.
@@ -12,7 +10,7 @@
 6. Repeat step 2.
 7. Repeat step 3.
 
-### CHATGPT CONCEPT
+#
 
 ```
 import os
@@ -50,7 +48,11 @@ if __name__ == "__main__":
     print("Created the second folder.")
 ```
 Make sure to change the base_directory variable to the directory where you want to create the folders. This script will automatically name new folders with incremental numbers (e.g., 1, 2, 3, etc.) in the specified directory.
+
 #
-### REFERENCES
+### Related Links
 
 [Regulated_File_Manager](https://github.com/sourceduty/Regulated_File_Manager)
+
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.

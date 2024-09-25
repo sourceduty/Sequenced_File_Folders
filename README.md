@@ -2,6 +2,8 @@
 
 > Automatically creates a new folder after a new folder is named.
 
+#
+
 1. A new folder is created without a name.
 2. The new folder is automatically named.
 3. Another new folder is created without a name.
